@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/benchoufi/android-app.svg?branch=master)](https://travis-ci.org/benchoufi/android-app)
+[![Build Status](https://travis-ci.org/benchoufi/android-app.svg?branch=master)](https://travis-ci.org/benchoufi/android-app) [![GuardRails badge](https://badges.production.guardrails.io/juliendasilva/PRJ-medtec_androidapp.svg)](https://www.guardrails.io)
 
 # Project
 ![](viewme.jpg)
